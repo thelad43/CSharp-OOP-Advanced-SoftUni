@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Graphic Editor", "02. G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Detail Printer", "03. Detail Printer\03. Detail Printer.csproj", "{8130FF98-30AF-46AA-B4E9-358EDC7CB0F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Recharge", "04. Recharge\04. Recharge.csproj", "{30D53319-9503-462A-AC26-FEFF1526BC57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8130FF98-30AF-46AA-B4E9-358EDC7CB0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8130FF98-30AF-46AA-B4E9-358EDC7CB0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8130FF98-30AF-46AA-B4E9-358EDC7CB0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D53319-9503-462A-AC26-FEFF1526BC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D53319-9503-462A-AC26-FEFF1526BC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D53319-9503-462A-AC26-FEFF1526BC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D53319-9503-462A-AC26-FEFF1526BC57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
