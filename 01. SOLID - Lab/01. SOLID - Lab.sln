@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Stream Progress Info", "01. Stream Progress Info\01. Stream Progress Info.csproj", "{A8C46C72-898D-48D0-B5A3-54DAFD1F5776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Graphic Editor", "02. Graphic Editor\02. Graphic Editor.csproj", "{0D64F7FC-5342-4240-A561-2853AA579D1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8C46C72-898D-48D0-B5A3-54DAFD1F5776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8C46C72-898D-48D0-B5A3-54DAFD1F5776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8C46C72-898D-48D0-B5A3-54DAFD1F5776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D64F7FC-5342-4240-A561-2853AA579D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D64F7FC-5342-4240-A561-2853AA579D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D64F7FC-5342-4240-A561-2853AA579D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D64F7FC-5342-4240-A561-2853AA579D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
