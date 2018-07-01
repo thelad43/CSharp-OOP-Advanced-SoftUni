@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strategy Pattern", "06.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Equality Logic", "07. Equality Logic\07. Equality Logic.csproj", "{3A7F6FBA-91D1-4A5E-8FFE-D692E4F7F05B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Pet Clinic", "08. Pet Clinic\08. Pet Clinic.csproj", "{D783FF27-7513-4972-A9F1-ECC0D3F85A1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3A7F6FBA-91D1-4A5E-8FFE-D692E4F7F05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7F6FBA-91D1-4A5E-8FFE-D692E4F7F05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A7F6FBA-91D1-4A5E-8FFE-D692E4F7F05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D783FF27-7513-4972-A9F1-ECC0D3F85A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D783FF27-7513-4972-A9F1-ECC0D3F85A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D783FF27-7513-4972-A9F1-ECC0D3F85A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D783FF27-7513-4972-A9F1-ECC0D3F85A1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
