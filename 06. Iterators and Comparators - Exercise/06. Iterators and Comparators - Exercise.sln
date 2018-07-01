@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Froggy", "04. Froggy\04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Comparing Objects", "05. Comparing Objects\05. Comparing Objects.csproj", "{D880987D-80ED-4914-9279-010649D31B31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Strategy Pattern", "06. Strategy Pattern\06. Strategy Pattern.csproj", "{508A2448-85B8-405A-893F-7AD9948641A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D880987D-80ED-4914-9279-010649D31B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D880987D-80ED-4914-9279-010649D31B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D880987D-80ED-4914-9279-010649D31B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508A2448-85B8-405A-893F-7AD9948641A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508A2448-85B8-405A-893F-7AD9948641A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508A2448-85B8-405A-893F-7AD9948641A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508A2448-85B8-405A-893F-7AD9948641A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
