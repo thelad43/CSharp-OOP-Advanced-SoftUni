@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. BarrackWars - The Comma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BarrackWars - Return of the Dependencies", "05. BarrackWars - Return of the Dependencies\05. BarrackWars - Return of the Dependencies.csproj", "{5E64CB71-E6EA-47E5-853C-C22C7F5ADC37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Traffic Lights", "06. Traffic Lights\06. Traffic Lights.csproj", "{A6E0EFA0-A35C-46FA-808D-2AEFF9875977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5E64CB71-E6EA-47E5-853C-C22C7F5ADC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E64CB71-E6EA-47E5-853C-C22C7F5ADC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E64CB71-E6EA-47E5-853C-C22C7F5ADC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E0EFA0-A35C-46FA-808D-2AEFF9875977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E0EFA0-A35C-46FA-808D-2AEFF9875977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E0EFA0-A35C-46FA-808D-2AEFF9875977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E0EFA0-A35C-46FA-808D-2AEFF9875977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
