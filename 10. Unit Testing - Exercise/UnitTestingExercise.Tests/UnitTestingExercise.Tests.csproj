@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Net.Test.Sdk" Version="15.8.0" />
+    <PackageReference Include="Moq" Version="4.9.0" />
+    <PackageReference Include="NUnit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01. Database\01. Database.csproj" />
+    <ProjectReference Include="..\02. Extended Database\02. Extended Database.csproj" />
+    <ProjectReference Include="..\03. Iterator Test\03. Iterator Test.csproj" />
+    <ProjectReference Include="..\04. Bubble Sort Test\04. Bubble Sort Test.csproj" />
+    <ProjectReference Include="..\05. Integration Tests\05. Integration Tests.csproj" />
+    <ProjectReference Include="..\06. Twitter\06. Twitter.csproj" />
+    <ProjectReference Include="..\07. Hack\07. Hack.csproj" />
+    <ProjectReference Include="..\08. Custom Linked List\08. Custom Linked List.csproj" />
+    <ProjectReference Include="..\09. DateTimeProblem\09. DateTimeProblem.csproj" />
+  </ItemGroup>
+
+</Project>
