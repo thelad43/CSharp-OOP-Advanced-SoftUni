@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Extended Database", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Iterator Test", "03. Iterator Test\03. Iterator Test.csproj", "{1381FE2C-324A-4945-A524-248DDC8AC1BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Bubble Sort Test", "04. Bubble Sort Test\04. Bubble Sort Test.csproj", "{17E3DC5F-1C13-4097-86B3-304CCE156BD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1381FE2C-324A-4945-A524-248DDC8AC1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1381FE2C-324A-4945-A524-248DDC8AC1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1381FE2C-324A-4945-A524-248DDC8AC1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E3DC5F-1C13-4097-86B3-304CCE156BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E3DC5F-1C13-4097-86B3-304CCE156BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E3DC5F-1C13-4097-86B3-304CCE156BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E3DC5F-1C13-4097-86B3-304CCE156BD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
