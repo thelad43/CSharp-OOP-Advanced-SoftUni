@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Event Implementation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Kings Gambit", "02. Kings Gambit\02. Kings Gambit.csproj", "{6C6A171E-7A43-4CC4-8213-B0E891B91484}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Dependency Inversion", "03. Dependency Inversion\03. Dependency Inversion.csproj", "{656AF4B1-6958-4B6D-8BDA-DC2C81240ED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C6A171E-7A43-4CC4-8213-B0E891B91484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C6A171E-7A43-4CC4-8213-B0E891B91484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C6A171E-7A43-4CC4-8213-B0E891B91484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656AF4B1-6958-4B6D-8BDA-DC2C81240ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656AF4B1-6958-4B6D-8BDA-DC2C81240ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656AF4B1-6958-4B6D-8BDA-DC2C81240ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656AF4B1-6958-4B6D-8BDA-DC2C81240ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
