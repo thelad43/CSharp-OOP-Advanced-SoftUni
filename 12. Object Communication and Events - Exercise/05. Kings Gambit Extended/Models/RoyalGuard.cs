@@ -1,0 +1,26 @@
+﻿namespace _05._Kings_Gambit_Extended.Models
+{
+    using Interfaces;
+
+    public class RoyalGuard : Subordinate
+    {
+        private new const string Action = "defending";
+        private new const int Health = 3;
+
+        private readonly IWriter writer;
+
+        public RoyalGuard(string name, IWriter writer)
+            : base(name, Action, Health, writer)
+        {
+            this.writer = writer;
+        }
+
+        public override void ReactToAttack()
+        {
+            if (this.IsAlive)
+            {
+                this.writer.WriteLine($"Royal Guard {this.Name} is {Action}!");
+            }
+        }
+    }
+}
